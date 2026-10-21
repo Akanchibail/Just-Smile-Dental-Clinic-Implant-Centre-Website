@@ -130,7 +130,7 @@ npm run build
 
 - Navigate to the **Staff Portal** tab in the navigation bar or visit `/admin`.
 - Enter authorized staff email (e.g. `receptionist@justsmile.clinic`) and credentials.
-- In demo/sandbox mode, you can click **"Click here to sign in with Clinic Demo Pass"** or use password `admin123` / `justsmile`.
+
 
 ---
 
