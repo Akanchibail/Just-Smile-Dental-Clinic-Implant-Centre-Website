@@ -1,0 +1,6 @@
+{
+  "name": "Just Smile Dental Clinic & Implant Centre",
+  "description": "Appointment booking system, service directory, and clinical management portal for Just Smile Dental Clinic & Implant Centre in Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
