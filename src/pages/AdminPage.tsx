@@ -614,8 +614,8 @@ export const AdminPage: React.FC<AdminPageProps> = ({
           </h1>
         </div>
 
-        <div className="flex items-center gap-3">
-          <div className="text-right">
+        <div className="flex items-center gap-2.5 flex-wrap">
+          <div className="text-right hidden md:block">
             <span className="text-xs font-bold text-slate-900 block">{staffEmail}</span>
             <span className="text-[10px] text-teal-800 font-medium uppercase tracking-wider">
               {isSupabaseConfigured() ? 'Connected to Supabase' : 'Local Storage Engine'}
